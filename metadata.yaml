@@ -1,0 +1,35 @@
+_repo: Roi-de-Camargue_69165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aicard, Jean
+    aliases:
+    - Aicard, Jean François Victor
+    - Aicard, Jean Francois Victor
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '6209'
+    url: http://www.gutenberg.org/2009/agents/6209
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Aicard
+    - https://fr.wikipedia.org/wiki/Jean_Aicard
+description: ''
+gutenberg_issued: '2022-10-16'
+identifiers:
+  gutenberg: '69165'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=ykM-AQAAMAAJ
+pgterms:marc905: 20220104135031aicard
+pgterms:marc906: '1890'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from scanned images
+  of public domain material from the Google Books project.)
+publication_note: 'France: Ernest Flammarion,1890,pubdate 1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Roi de Camargue
+url: http://www.gutenberg.org/ebooks/69165
