@@ -1,5 +1,8 @@
 _repo: Roi-de-Camargue_69165
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69165-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Aicard
     - https://fr.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69165#Roi-de-Camargue
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69165'
